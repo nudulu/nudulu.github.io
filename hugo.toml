@@ -1,0 +1,31 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Nudulu'
+theme = "cyberscape"
+sectionPagesMenu = "main"
+
+[[menu.main]]
+name = "Dessin Papier"
+url = "/papier/"
+weight = 1
+
+[[menu.main]]
+name = "Dessin Numérique"
+url = "/my-first-post/"
+weight = 2
+
+[[menu.main]]
+name = "peinture"
+url = "/peinture/"
+weight = 3
+
+[[menu.main]]
+name = "Autres Projets"
+url = "/autre/"
+weight = 4
+
+[[menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 5
+

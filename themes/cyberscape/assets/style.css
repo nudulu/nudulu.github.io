@@ -7,6 +7,35 @@
 2. Allow adding a border to an element by just adding a border-width. (https://github.com/tailwindcss/tailwindcss/pull/116)
 */
 
+
+
+
+
+@font-face {
+    font-family: "vhs";
+    src: url("/fonts/vhs.ttf");
+}
+
+@font-face {
+    font-family: "daydream";
+    src: url("/fonts/daydream.ttf");
+}
+
+@font-face {
+    font-family: "gumball";
+    src: url("/fonts/gumball.ttf");
+}
+
+@font-face {
+    font-family: "pixel";
+    src: url("/fonts/pixel.ttf");
+}
+
+
+
+
+
+
 *,
 ::before,
 ::after {
@@ -318,7 +347,7 @@ hr,
 figure,
 p,
 pre {
-  margin: 0;
+  margin: 5px 5px 5px 5px;
 }
 
 fieldset {
@@ -654,9 +683,24 @@ video {
   text-align: center;
 }
 
+
+
+
+/*
+
 .font-serif {
   font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  
+  
+}*/
+
+
+.font-serif {
+  font-family: pixel, ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
 }
+
+
+
 
 .text-xl {
   font-size: 1.25rem;

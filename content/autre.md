@@ -33,7 +33,7 @@ Réutilisation des assets du flyer dans un autre format, pour créer une publica
 # **Wonder of U**
 
 > projet: réalisation d'un portrait de personnage de manga en papier découpé
-> matériel: feuilles de couleurs découpées et marqueur noir
+> matériel: feuilles découpées et marqueur noir
 
 ![Image](/img/wonderofyou.jpg "wonder of you")
 

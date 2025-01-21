@@ -6,7 +6,7 @@ draft = false
 
 ## Dessin Numérique (15 éléments)
 
->Dessins réalisés a la tablette graphique sur Krita, le plus souvent en utilisant un dessin papier numérisé comme base.  
+>Dessins réalisés à la tablette graphique sur Krita, le plus souvent en utilisant un dessin papier numérisé comme base.  
 
 ###  //Jinx d'Arcane
 ![Image](/img/jinx_revolution.png "jinx")

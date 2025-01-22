@@ -4,6 +4,6 @@ draft = false
 title = 'Contact'
 +++
 
-**mon numéro de téléphone:** `+33 06.09.27.79.36`
+**mon numéro de téléphone:** `+33 6.09.27.79.36`
 
-**mon mail:** `luK.Brtrand[arobase]gmail[point]com`
+**mon mail:** `ukabrtrand[arobase]duck[point]com`

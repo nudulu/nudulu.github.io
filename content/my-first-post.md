@@ -4,7 +4,7 @@ date = 2024-09-10T19:30:13+02:00
 draft = false
 +++
 
-## Dessin Numérique (15 éléments)
+## Dessin Numérique 
 
 >Dessins réalisés à la tablette graphique sur Krita, le plus souvent en utilisant un dessin papier numérisé comme base.  
 

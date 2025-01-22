@@ -4,18 +4,27 @@ draft = false
 title = 'Papier'
 +++
 
-## Dessins Papier (40 éléments)
+## Dessins Papier
 
 > Crayon à papier sur feuille sauf exception
 
+###  //Cyber Ninja
+>  Encre noir au pinceau et feutre noir  
+![Image](/img/grayfox.jpg "gray fox")
+
 ###  //Fire Punch
 ![Image](/img/firepunch.jpg "fire punch")
+
+###  //Jinx
+>  Feutres
+![Image](/img/jinxhood.jpg "jinx")
 
 ###  //Violet's Typewriter
 ![Image](/img/violet.jpg "violet evergarden")
 
 ###  //Ptite Soeur
-> Fanart de la mascotte d'une artiste musicale que vous pouvez retrouver [ici](https://soundcloud.com/ptite-soeur).
+> Fanart de la mascotte d'une artiste musicale que vous pouvez retrouver [ici](https://soundcloud.com/ptite-soeur).  
+
 ![Image](/img/tuermacron.jpg "ptite soeur")
 
 ###  //Chimera

@@ -5,9 +5,16 @@ title = 'Autre'
 +++
 ## Autres Réalisations
 
+# **Zone Trouble**
+
+> projet: création d'un logo pour l'émission radio d'un camarade sur [radio campus Besançon](https://campusbesancon.fr/), vous  pouvez retrouver l'émission [ici](https://campusbesancon.fr/emissions/zone-trouble/).  
+> matériel: cassette, marteau et Krita
+
+![Image](/img/zone_trouble.png "zone trouble")
+
 # **Krimson**
 
-> projet: création d'un logo pour mon groupe et d'un flyer pour notre passage au festival des talents de notre lycée
+> projet: création d'un logo pour mon groupe et d'un flyer pour notre passage au festival des talents de notre lycée  
 > utilisation de Inkscape et Krita
 
 Premier logo avec le premier nom de groupe:
@@ -32,7 +39,7 @@ Réutilisation des assets du flyer dans un autre format, pour créer une publica
 
 # **Wonder of U**
 
-> projet: réalisation d'un portrait de personnage de manga en papier découpé
+> projet: réalisation d'un portrait de personnage de manga en papier découpé  
 > matériel: feuilles découpées et marqueur noir
 
 ![Image](/img/wonderofyou.jpg "wonder of you")
@@ -41,7 +48,7 @@ Réutilisation des assets du flyer dans un autre format, pour créer une publica
 
 # **Essai Animation**
 
-> projet: réalisation d'un brouillon d'animation en utilisant un personnage de jeu comme référence  
+> projet: réalisation d'un brouillon d'animation en utilisant un personnage de jeu comme référence     
 > animation sur krita et ajout des sons sur Kdenlive
 
 {{< youtube ZOKCZ5U2qJk >}}

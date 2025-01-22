@@ -4,7 +4,7 @@ draft = false
 title = 'Peinture'
 +++
 
-## Peinture (7 éléments)
+## Peinture
 
 > Peinture acrylique sur toile sauf exception.
 
